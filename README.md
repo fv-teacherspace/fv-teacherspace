@@ -1,16 +1,12 @@
-## Hi there 👋
+**Co-founder & CPO @ Teacherspace**
 
-<!--
-**fv-teacherspace/fv-teacherspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Early coding experience**
+- Started coding websites in my childhood
+- While studying to become an electrical engineer I did software delveopment courses, where I learned C, Java and writing Matlab scripts
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Since I co-founded Teacherspace I've started to learn the basics of:**
+- Restful APIs
+- Elixir
+- Phoenix Liveview
+- Postgres
+- React Native
